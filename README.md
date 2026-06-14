@@ -45,6 +45,12 @@ Through this project, I gained practical experience with:
 * UI Enhancements
 * Mobile Support
 
+## Screenshots
+<img width="640" height="308" alt="ball 1" src="https://github.com/user-attachments/assets/77782574-6398-42da-b808-ffd576935697" />
+<img width="636" height="267" alt="ball 3" src="https://github.com/user-attachments/assets/0aa234d1-0b73-426e-8487-fc6e321a126f" />
+<img width="1360" height="663" alt="ball 2" src="https://github.com/user-attachments/assets/531d5e41-6f9a-4a85-887e-96e7484c1ba4" />
+  
+
 ## Author
 
 Muqeet Ahmed
